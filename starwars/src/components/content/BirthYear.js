@@ -4,4 +4,4 @@ const BirthYear = ({birthYear}) => {
     return <p>Birth Year: {birthYear}</p>
 }
 
-export default BirthYear 
+export default BirthYear

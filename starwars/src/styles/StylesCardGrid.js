@@ -6,4 +6,4 @@ const CardGrid = styled.div`
     justify-content: center;
 `
 
-export default CardGrid 
+export default CardGrid

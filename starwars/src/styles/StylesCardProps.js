@@ -1,7 +1,8 @@
 import styled from 'styled-components'
 
 const CardProps = styled.div`
-    background-color: white;
+    background-color: blue;
+    color: orange;
     border-radius: 25px;
     max-width: 300px;
     width: 100%;
@@ -10,4 +11,4 @@ const CardProps = styled.div`
     opacity: 0.6;
 `
 
-export default CardProps 
+export default CardProps

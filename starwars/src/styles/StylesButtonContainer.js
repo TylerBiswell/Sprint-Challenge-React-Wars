@@ -7,4 +7,4 @@ const ButtonContainer = styled.div`
     margin: 0 auto;
 `
 
-export default ButtonContainer 
+export default ButtonContainer
