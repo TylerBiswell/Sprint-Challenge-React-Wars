@@ -7,6 +7,7 @@ const CardProps = styled.div`
     background-color: white;
     border-radius: 25px;
     max-width: 300px;
+    width: 100%;
     padding: 10px;
     opacity: 0.8;
     margin: 20px;
